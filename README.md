@@ -1,4 +1,4 @@
-## Simple messanger to practice with firebase api.
+## Simple real time messanger to practice with firebase firestore.
 # Main tech Stack used:
   > **React**. [view](https://reactjs.org/) ![atom](https://user-images.githubusercontent.com/65970612/191053120-127b5428-8740-4e10-8c90-a54cf3af287c.png)
 
